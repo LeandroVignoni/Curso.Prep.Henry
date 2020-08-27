@@ -60,7 +60,7 @@ function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (x==y)
+  if (x===y)
     return true;
   else return false;
 
@@ -70,7 +70,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (str1.length == str2.length)
+  if (str1.length === str2.length)
     return true;
   else return false;
 
@@ -104,7 +104,7 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num%2 == 0)
+  if (num%2 === 0)
     return true;
   else return false;
 }
@@ -113,7 +113,7 @@ function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num%2 == 1)
+  if (num%2 === 1)
     return true;
   else return false;
 }
