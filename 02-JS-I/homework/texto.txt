@@ -1,0 +1,10 @@
+Variables: espacio para almacenar valores que pueden cambiar
+Strings: tipo de variable que almacena texto 
+Funciones:
+    -argumentos: valor que debe darse a una funcion para obtener un resultado
+    -return: devuelve el control luego de ejecutarse una funcion
+Declaraciones: 
+    -if: permite comparar dos o mas variables
+Valores booleanos:
+    -true: representa el valor de verdad verdadero
+    -false: representa el valor de verdad falso
